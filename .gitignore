@@ -65,3 +65,9 @@ bower_components
 
 ###Task related folders
 jsapiupload
+
+node_modules
+npm-debug.log
+.stylelintrc.json
+package-lock.json
+build.css
