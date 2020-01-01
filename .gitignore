@@ -71,3 +71,4 @@ npm-debug.log
 .stylelintrc.json
 package-lock.json
 build.css
+.gitignore
