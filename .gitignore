@@ -48,6 +48,8 @@ build/Release
 
 # Dependency directories
 node_modules
+build
+package-lock.json
 jspm_packages
 bower_components
 
@@ -65,10 +67,3 @@ bower_components
 
 ###Task related folders
 jsapiupload
-
-node_modules
-npm-debug.log
-.stylelintrc.json
-package-lock.json
-build.css
-.gitignore
